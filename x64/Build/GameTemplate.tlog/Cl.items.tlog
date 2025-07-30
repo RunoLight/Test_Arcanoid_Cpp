@@ -1,0 +1,10 @@
+C:\Projects\SomeProject\GameTemplate\ArcanoidGame\ArkanoidGame.cpp;C:\Projects\SomeProject\GameTemplate\x64\Debug\ArkanoidGame.obj
+C:\Projects\SomeProject\GameTemplate\ArcanoidGame\BallComponent.cpp;C:\Projects\SomeProject\GameTemplate\x64\Debug\BallComponent.obj
+C:\Projects\SomeProject\GameTemplate\ArcanoidGame\BrickComponent.cpp;C:\Projects\SomeProject\GameTemplate\x64\Debug\BrickComponent.obj
+C:\Projects\SomeProject\GameTemplate\ArcanoidGame\PlatformComponent.cpp;C:\Projects\SomeProject\GameTemplate\x64\Debug\PlatformComponent.obj
+C:\Projects\SomeProject\GameTemplate\ArcanoidGame\RectangleRenderer.cpp;C:\Projects\SomeProject\GameTemplate\x64\Debug\RectangleRenderer.obj
+C:\Projects\SomeProject\GameTemplate\Engine\BaseSolution\Engine.cpp;C:\Projects\SomeProject\GameTemplate\x64\Debug\Engine.obj
+C:\Projects\SomeProject\GameTemplate\Engine\Component.cpp;C:\Projects\SomeProject\GameTemplate\x64\Debug\Component.obj
+C:\Projects\SomeProject\GameTemplate\Engine\GameObject.cpp;C:\Projects\SomeProject\GameTemplate\x64\Debug\GameObject.obj
+C:\Projects\SomeProject\GameTemplate\Engine\Renderer.cpp;C:\Projects\SomeProject\GameTemplate\x64\Debug\Renderer.obj
+C:\Projects\SomeProject\GameTemplate\Game.cpp;C:\Projects\SomeProject\GameTemplate\x64\Debug\Game.obj
